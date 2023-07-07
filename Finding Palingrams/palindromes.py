@@ -9,4 +9,4 @@ for word in word_list:
 
     print("\nNumber of palindromes found = {}\n".format(len(pali_list)))
     print(*pali_list, sep='\n')
-    2
+
